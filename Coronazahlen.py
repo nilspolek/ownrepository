@@ -14,4 +14,3 @@ for td in tabelle:
         print(f"Die Anzahl der Coronafälle in Gießen beträgt : {td.text}")
 
 driver.quit()
-C:\Program Files\Tesseract-OCR
